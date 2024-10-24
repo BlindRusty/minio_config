@@ -263,7 +263,9 @@
 
 **Docker containers listing**
 
-    ![distributed containers running with nginx container](distributed_minio.png)
+![distributed containers running with nginx container](distributed_minio.png)
+
+
 
 ## STANDALONE ARCHITECTURE
 
@@ -570,7 +572,9 @@ For Standalone architecture, we will create two instances
 
 **Docker containers listing**
 
-    ![Standalone minio instances containers running with nginx container](Standalone_minio.png)
+    
+
+![Standalone minio instances containers running with nginx container](Standalone_minio.png)
 
 
 
