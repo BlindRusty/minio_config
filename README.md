@@ -7,7 +7,7 @@
         1. Distributed Architecture
         2. Standalone 
     
-    The following codes for docker-compose.yml and nginx.conf is for distributed architecture. 
+    docker-compose.yml and nginx.conf are provided for both distributed architecture as well as standalone architecture.
 
     Before we initaite the distributed architecture , we need the directory structure. We would put 4 minio instances. 
     The logs and data will be at physical storage of the custom location of the apps. This practice can help in controlling data and logs better. 
