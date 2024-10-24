@@ -577,6 +577,13 @@ For Standalone architecture, we will create two instances
 ![Standalone minio instances containers running with nginx container](Standalone_minio.png)
 
 
+**Access Links**
+
+    Production MinIO API: http://localhost:9990
+    Production MinIO Console: http://localhost:9991   
+    Testing MinIO API: http://localhost:9992
+    Testing MinIO Console: http://localhost:9993    
+
 
 
 
